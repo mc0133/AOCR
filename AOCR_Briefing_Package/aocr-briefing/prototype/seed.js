@@ -1,0 +1,7 @@
+window.AOCR_SEED=[
+{id:'doc-19660817',title:'Univala — August 17, 1966',date:'1966-08-17',archive:'Summer intern sample collection',location:'Huntsville, Alabama',tags:['UAH','graduate studies'],file:'assets/Univala_19660817_001.pdf',base:'assets/Univala_19660817_001',pages:4,processing_status:'completed',review_status:'pending',revision:1,blocks:[
+{id:'aug-p1-b1',page:1,label:'Graduate Studies',original_text:'Graduate Studies Bldg. To Open for Fali Term',corrected_text:null,confidence:0.84,suggestion:{text:'Graduate Studies Bldg. To Open for Fall Term',reason:'Illustrative OCR character confusion: “i” versus “l”. Compare the scan before accepting.',resolution:'pending'},history:[]},
+{id:'aug-p1-b2',page:1,label:'Campus development',original_text:'Future of Huntsville Campus Outlined for New Freshmen',corrected_text:null,confidence:0.97,history:[]}]},
+{id:'doc-19661109',title:'Univala — November 9, 1966',date:'1966-11-09',archive:'Summer intern sample collection',location:'Huntsville, Alabama',tags:['UAH','library'],file:'assets/Univala_19661109_001.pdf',base:'assets/Univala_19661109_001',pages:4,processing_status:'completed',review_status:'pending',revision:1,blocks:[
+{id:'nov-p1-b1',page:1,label:'Library collection',original_text:'U.A.H. Library to Enlarge Microfilm Collection',corrected_text:null,confidence:0.95,history:[]},
+{id:'nov-p1-b2',page:1,label:'Student organizations',original_text:'History Club Is Organized',corrected_text:null,confidence:null,history:[]}]}];

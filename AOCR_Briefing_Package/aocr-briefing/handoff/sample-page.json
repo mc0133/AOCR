@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1-proposal",
+  "demo_data": true,
+  "data_note": "Illustrative manually seeded excerpt; no OCR run or measured confidence. Coordinates intentionally null pending actual layout output.",
+  "id": "page-aug-1",
+  "document_id": "doc-19660817",
+  "page_number": 1,
+  "image_url": "/api/documents/doc-19660817/pages/page-aug-1/image",
+  "image_width_px": 894,
+  "image_height_px": 1217,
+  "rotation_degrees": 0,
+  "review_status": "pending",
+  "revision": 1,
+  "blocks": [
+    {
+      "id": "aug-p1-b1",
+      "reading_order": 1,
+      "block_type": "heading",
+      "original_text": "Graduate Studies Bldg. To Open for Fali Term",
+      "corrected_text": null,
+      "engine_confidence": 0.84,
+      "bounding_box": null,
+      "revision": 1,
+      "suggestions": [
+        {
+          "id": "suggestion-aug-1",
+          "proposed_text": "Graduate Studies Bldg. To Open for Fall Term",
+          "reason": "Illustrative i/l character confusion; verify against scan.",
+          "origin": "ocr_rule",
+          "resolution": "pending"
+        }
+      ]
+    }
+  ]
+}
